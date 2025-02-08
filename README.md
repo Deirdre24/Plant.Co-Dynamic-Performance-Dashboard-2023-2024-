@@ -60,3 +60,40 @@ Are pricing adjustments needed to improve GP% for key accounts?
 - ✅ Maximize High-Profit Products: Shift focus from low-margin, high-sales products.
 - ✅ Capitalize on Peak Months: Strengthen marketing & sales efforts in high-performing months (March, October, Q4).
 - ✅ Enhance Profitability Strategy: Prioritize high-GP% customers while optimizing revenue growth.
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+The **main objective** of this Power BI dashboard project is to **demonstrate your ability to analyze and visualize business performance data effectively**, while providing actionable insights to support strategic decision-making. As a portfolio project, it showcases my skills in:
+
+1. **Data Analysis**: Analyzing key performance metrics (Sales, Gross Profit, Quantity) to identify trends, growth opportunities, and areas for improvement.
+2. **Data Visualization**: Creating interactive and dynamic visualizations that allow users to explore data at different levels (e.g., by country, month, product category).
+3. **Business Insights**: Translating raw data into meaningful insights, such as identifying underperforming markets, high-profit products, and seasonal trends.
+4. **Strategic Recommendations**: Providing actionable recommendations to improve profitability, market penetration, and operational efficiency.
+
+### Key Objectives for the Portfolio Project:
+1. **Showcase Technical Skills**:
+   - Proficiency in Power BI (e.g., creating dynamic dashboards, drill-downs, and filters).
+   - Ability to handle and analyze large datasets.
+   - Use of DAX (Data Analysis Expressions) for calculations like YTD, PYTD, and GP%.
+
+2. **Highlight Problem-Solving Abilities**:
+   - Identifying underperforming regions and products.
+   - Analyzing year-over-year performance to assess growth or decline.
+   - Providing data-driven solutions to improve profitability and sales.
+
+3. **Demonstrate Business Acumen**:
+   - Understanding key business metrics (Sales, GP%, Quantity).
+   - Translating data insights into actionable business strategies.
+   - Addressing real-world business challenges (e.g., market penetration, profitability optimization).
+
+4. **Create a User-Friendly Dashboard**:
+   - Designing an intuitive and interactive interface for end-users.
+   - Allowing users to toggle between years, metrics, and drill down into specific details.
+   - Presenting complex data in a clear and visually appealing manner.
+
+### Why This Project is Valuable for Your Portfolio:
+- **Relevance**: Demonstrates your ability to work with real-world business data and solve common business problems.
+- **Impact**: Highlights how data-driven insights can lead to improved decision-making and business outcomes.
+- **Versatility**: Shows ability to work across different industries (e.g., retail, e-commerce, manufacturing) by analyzing sales, profitability, and market performance.
+
+By completing this project, i am showcasing my technical expertise in Power BI but also your ability to think critically and provide value to businesses through data analysis and visualization.
