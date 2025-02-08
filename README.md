@@ -63,7 +63,7 @@ Are pricing adjustments needed to improve GP% for key accounts?
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 
-The **main objective** of this Power BI dashboard project is to **demonstrate your ability to analyze and visualize business performance data effectively**, while providing actionable insights to support strategic decision-making. As a portfolio project, it showcases my skills in:
+The **main objective** of this Power BI dashboard project is to **demonstrate my ability to analyze and visualize business performance data effectively**, while providing actionable insights to support strategic decision-making. As a portfolio project, it showcases my skills in:
 
 1. **Data Analysis**: Analyzing key performance metrics (Sales, Gross Profit, Quantity) to identify trends, growth opportunities, and areas for improvement.
 2. **Data Visualization**: Creating interactive and dynamic visualizations that allow users to explore data at different levels (e.g., by country, month, product category).
