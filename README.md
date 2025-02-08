@@ -19,8 +19,8 @@ This Power BI dashboard provides an interactive analysis of Plant.Co’s perform
 - The dashboard updates dynamically based on the selected measure.
   
 ### 3. Sales & Profitability Analysis
-- S_YTD (Sales Year-to-Date): Total sales for the selected year.
-- S_PYTD (Sales Prior Year-to-Date): Sales up to the same point in the previous year.
+- S_YTD (Switch Year-to-Date): Total sales or data for the selected year.
+- S_PYTD (Switch Prior Year-to-Date): Data up to the same point in the previous year.
 - YTD vs PYTD Change: Difference in performance, indicating growth or decline.
 - GP% (Gross Profit Percentage): Profitability indicator showing margin efficiency.
 - Bottom 10 Underperforming Countries
