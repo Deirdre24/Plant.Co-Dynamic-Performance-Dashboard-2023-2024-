@@ -56,7 +56,7 @@ Should we prioritize profitable customers over high-volume sales?
 Are pricing adjustments needed to improve GP% for key accounts?
 
 ## Business Impact & Recommendations
-✅ Improve Market Penetration: Address underperforming countries (China, Sweden, France, etc.).
-✅ Maximize High-Profit Products: Shift focus from low-margin, high-sales products.
-✅ Capitalize on Peak Months: Strengthen marketing & sales efforts in high-performing months (March, October, Q4).
-✅ Enhance Profitability Strategy: Prioritize high-GP% customers while optimizing revenue growth.
+- ✅ Improve Market Penetration: Address underperforming countries (China, Sweden, France, etc.).
+- ✅ Maximize High-Profit Products: Shift focus from low-margin, high-sales products.
+- ✅ Capitalize on Peak Months: Strengthen marketing & sales efforts in high-performing months (March, October, Q4).
+- ✅ Enhance Profitability Strategy: Prioritize high-GP% customers while optimizing revenue growth.
