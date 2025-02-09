@@ -91,8 +91,8 @@ The **main objective** of this Power BI dashboard project is to **demonstrate my
    - Allowing users to toggle between years, metrics, and drill down into specific details.
    - Presenting complex data in a clear and visually appealing manner.
 
-### Why This Project is Valuable for Your Portfolio:
-- **Relevance**: Demonstrates your ability to work with real-world business data and solve common business problems.
+### Why This Project is Valuable:
+- **Relevance**: Demonstrates ability to work with real-world business data and solve common business problems.
 - **Impact**: Highlights how data-driven insights can lead to improved decision-making and business outcomes.
 - **Versatility**: Shows ability to work across different industries (e.g., retail, e-commerce, manufacturing) by analyzing sales, profitability, and market performance.
 
